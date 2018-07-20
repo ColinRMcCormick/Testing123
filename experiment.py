@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+
+#to initalize file, type git init in terminal within wd
+#to add to it, type git add --all
+
 __author__ = "colin mccormick"
 
 import klibs
