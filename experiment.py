@@ -8,7 +8,7 @@ from klibs import P
 class newcode(klibs.Experiment):
 
 	def setup(self):
-		pass
+		pass #hi
 
 	def block(self):
 		pass
